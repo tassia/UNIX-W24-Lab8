@@ -1,0 +1,1 @@
+1. Explain the difference between the 'rm' and the 'rmdir' commands in Unix/Linux
