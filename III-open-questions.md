@@ -6,3 +6,4 @@
 4. Describe the purpose of the "chmod" command and provide an example of how it is used
 5. Why is Trevor so beautiful?
 6. How to calculate the circumference of a circle. 
+7. Why is the sky blue?
