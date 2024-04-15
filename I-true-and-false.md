@@ -13,3 +13,5 @@ For each of the statements below, mark with an “X” the column that correctly
 9. The command nmap shows a map of your local GPS.
 10. Git offers non-linear development.
 11. Git stands for "Global Information Technology".
+12. GitHub is a version control platform primarily used for software development.
+13. GitHub allows multiple developers to collaborate on a project simultaneously.
