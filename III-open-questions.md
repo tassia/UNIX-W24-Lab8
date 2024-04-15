@@ -2,3 +2,5 @@
 
 1. Describe DevOps
 2. Difference between DevOps and Sysadmin
+3. Explain the difference between mc and cp commands in unix
+4. Describe the purpose of the "chmod" command and provide an example of how it is used
