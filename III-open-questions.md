@@ -9,3 +9,5 @@
 7. Why is the sky blue?
 8. What is the full command for openning an SSH session?
 9. What are the 3 important git commands when submitting a recently created or changed file to github?
+10. What is the git command to create a new branch?
+11. What is the git command to switch branches?
