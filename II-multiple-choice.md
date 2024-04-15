@@ -43,3 +43,15 @@ Circle the choice that best answers each question. If you select more than one, 
   b. git clone
   c. git fetch
   d. git pull
+  
+8. What is needed when using nmap to find currently running ports?
+   a. port number
+   b. pid (process id)
+   c. ip address
+   d. host name
+
+9. What does VPS stand for?
+   a. Virtual Protected Service
+   b. Visual Positioning System 
+   c. Virtual Private Server
+   d. Virtuallly Powered System

@@ -11,3 +11,5 @@ For each of the statements below, mark with an “X” the column that correctly
 7. The "ls" command in Unix stands for "list."
 8. In Unix, file permissions can be set using symbolic notation.
 9. The command nmap shows a map of your local GPS.
+10. Git offers non-linear development.
+11. Git stands for "Global Information Technology".

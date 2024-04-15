@@ -7,3 +7,5 @@
 5. Why is Trevor so beautiful?
 6. How to calculate the circumference of a circle. 
 7. Why is the sky blue?
+8. What is the full command for openning an SSH session?
+9. What are the 3 important git commands when submitting a recently created or changed file to github?
