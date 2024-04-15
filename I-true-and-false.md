@@ -10,3 +10,4 @@ For each of the statements below, mark with an “X” the column that correctly
 6. The Unix command "awk" is primarily used for text processing and manipulation.
 7. The "ls" command in Unix stands for "list."
 8. In Unix, file permissions can be set using symbolic notation.
+9. The command nmap shows a map of your local GPS.
